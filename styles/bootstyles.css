@@ -12,18 +12,20 @@ header{
     color: #edf0f1;
     padding-left:  20px;
     padding-right:  40px;
+    padding-bottom: 20px;
 
 }
 
 .footer{
-    bottom: 110px; 
+    bottom: 0px; 
     left: 0px;
     right: 0px;
     height: 10px;
+  
     font-size: 18px;
     color: #181818;
     text-align: center;
-    position: fixed;
+    position: relative;
     background-color: #24252a;
 }
 
